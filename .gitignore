@@ -1,0 +1,17 @@
+# Archivos y directorios generados
+node_modules/
+dist/
+coverage/
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de registro y salida
+logs/
+*.log
+
+# Otros archivos y directorios específicos del proyecto
